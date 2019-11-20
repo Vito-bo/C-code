@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/7/25 12:24:18。
+     1>项目“E:\C代码\比特64班\20190725\20190725\20190725.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /I"D:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>e:\c代码\比特64班\20190725\20190725\test.c(17): warning C4716: “Fac”: 必须返回一个值
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C代码\比特64班\20190725\Debug\20190725.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C代码\比特64班\20190725\Debug\20190725.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C代码\比特64班\20190725\Debug\20190725.lib" /MACHINE:X86 Debug\add.obj
+         Debug\test.obj
+         20190725.vcxproj -> E:\C代码\比特64班\20190725\Debug\20190725.exe
+     1>已完成生成项目“E:\C代码\比特64班\20190725\20190725\20190725.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.35
